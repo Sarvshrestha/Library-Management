@@ -7,7 +7,7 @@ import java.util.UUID;
 
 import java.util.UUID;
 
-@Data
+@Data abcd
 public class Book {
     private UUID id;
     private String name;
